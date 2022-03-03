@@ -30,5 +30,5 @@ app.get('/statement/:cpf', (request, response) => {
 })
 
 app.listen(3333, () => {
-  console.log('app is running on 3333')
+  console.log('backend api is running on 3333')
 })
